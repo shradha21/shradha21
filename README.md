@@ -4,3 +4,5 @@
 
 
 My life thumbnail sketch :
+      
+      :seedling: - Trying to catch up with latest techs
