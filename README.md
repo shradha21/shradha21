@@ -6,7 +6,7 @@
 
     - 🌱 Exploring latest technologies 
     - 🎇 What do I believe? Jack of all,Master of some
-    - 🔥 2020 Goals: Contribute more to Open Source projects
+    - 🔥 2020 Goals: Contribute more to Open Source Projects
 
 ###  🤝🏻Connect with me: 
 
