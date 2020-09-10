@@ -34,4 +34,4 @@
 <br/>
 
 ###
-[![Shradha github stats](https://github-readme-stats-git-master.shradha21.vercel.app/api?username=shradha21)](https://github.com/mroshan74/github-readme-stats)
+[![Shradha github stats](https://github-readme-stats.vercel.app/api?username=shradha21)](https://github.com/shradha21/github-readme-stats)
