@@ -5,4 +5,5 @@
 
 My life thumbnail sketch :
       
-      :seedling: - Trying to catch up with latest techs
+      - :seedling: - Trying to catch up with latest techs
+      - :sparkles: What do I believe? Jack of all,Master of some
